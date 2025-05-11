@@ -1,0 +1,10 @@
+number = 1
+text = "Hello"
+c = 3
+true_false = True
+d = 67
+e = "E"
+true_false_0 = False
+r = "13"
+programming = "Programming"
+name = "Введіть імʼя"

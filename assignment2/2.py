@@ -1,0 +1,6 @@
+x = int(input("Введіть перше ціле число: "))
+y = int(input("Введіть друге ціле число: "))
+print("x+y=", x+y)
+print("x-y=", x-y)
+print("x*y=", x*y)
+print("x/y=", x/y)

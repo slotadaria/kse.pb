@@ -1,0 +1,3 @@
+def calculate_wacc(equity, debt, cost_of_equity, cost_of_debt, tax_rate):
+  return((equity*cost_of_equity/(debt+equity))+ (debt*cost_of_debt*(1-tax_rate)/(debt+equity) ))
+print(calculate_wacc(300, 150, 479, 300, 56))

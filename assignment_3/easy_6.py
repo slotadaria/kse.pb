@@ -5,5 +5,4 @@ for i in numb:
         posit_numb.append(i)
     else:
         continue
-print(sum(posit_numb)/len(posit_numb))
-
+print(posit_numb)
